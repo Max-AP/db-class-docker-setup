@@ -18,7 +18,7 @@
 
 
 
-\## Usage
+## Usage
 
 - Start: `docker-compose up -d`
 
